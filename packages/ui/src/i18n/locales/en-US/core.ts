@@ -80,7 +80,7 @@ const messages = {
     "context": "Context",
     "copySuccess": "Copied to clipboard",
     "copyFailed": "Copy Failed",
-    "appName": "Prompt Optimizer",
+    "appName": "FUYAO PROMPT",
     "selectFile": "Select File",
     "exporting": "Exporting...",
     "importing": "Importing...",
@@ -153,7 +153,7 @@ const messages = {
     "imageMode": "Image"
   },
   "about": {
-    "title": "Prompt Optimizer",
+    "title": "FUYAO PROMPT",
     "website": "Website",
     "websiteLabel": "always200.com",
     "documentation": "Docs",

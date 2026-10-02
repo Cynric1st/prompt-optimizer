@@ -78,7 +78,7 @@ const messages = {
     "context": "上下文",
     "copySuccess": "複製成功",
     "copyFailed": "複製失敗",
-    "appName": "提示詞優化器",
+    "appName": "扶搖提示詞優化",
     "selectFile": "選擇檔案",
     "exporting": "匯出中...",
     "importing": "匯入中...",
@@ -153,7 +153,7 @@ const messages = {
     "imageMode": "圖像"
   },
   "about": {
-    "title": "提示詞優化器",
+    "title": "扶搖提示詞優化 FUYAO PROMPT",
     "website": "官網",
     "websiteLabel": "always200.com",
     "documentation": "文件站",
