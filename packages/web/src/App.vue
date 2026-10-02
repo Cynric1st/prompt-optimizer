@@ -11,7 +11,27 @@
         - 此文件仅作为应用壳，减少代码重复
     -->
     <PromptOptimizerApp />
+    <a class="web-privacy-link" href="/privacy.html" target="_blank" rel="noopener">隐私政策 Privacy</a>
 </template>
+
+<style scoped>
+.web-privacy-link {
+  position: fixed;
+  bottom: 6px;
+  right: 12px;
+  z-index: 2000;
+  font-size: 11px;
+  line-height: 1.4;
+  padding: 2px 8px;
+  border-radius: 999px;
+  color: rgba(139, 148, 158, 0.75);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.web-privacy-link:hover {
+  color: #d9a441;
+}
+</style>
 
 <script setup lang="ts">
 /**
