@@ -11,20 +11,32 @@
         - 此文件仅作为应用壳，减少代码重复
     -->
     <PromptOptimizerApp />
-    <a class="web-privacy-link" href="/privacy.html" target="_blank" rel="noopener">隐私政策 Privacy</a>
+    <nav class="web-legal-bar">
+      <a class="web-privacy-link" href="/about.html">关于 About</a>
+      <a class="web-privacy-link" href="/privacy.html">隐私 Privacy</a>
+      <a class="web-privacy-link" href="/terms.html">条款 Terms</a>
+      <a class="web-privacy-link" href="/contact.html">联系 Contact</a>
+    </nav>
 </template>
 
 <style scoped>
-.web-privacy-link {
+.web-legal-bar {
   position: fixed;
   bottom: 6px;
   right: 12px;
   z-index: 2000;
+  display: flex;
+  gap: 4px;
+}
+.web-privacy-link {
+  position: static;
   font-size: 11px;
   line-height: 1.4;
   padding: 2px 8px;
   border-radius: 999px;
   color: rgba(139, 148, 158, 0.75);
+  background: rgba(11, 13, 16, 0.55);
+  backdrop-filter: blur(4px);
   text-decoration: none;
   transition: color 0.2s;
 }

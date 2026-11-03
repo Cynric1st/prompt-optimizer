@@ -1,0 +1,27 @@
+# 扶摇提示词 FUYAO PROMPT
+
+> 扶摇提示词优化在浏览器本地处理 AI 提示词（浏览器本地运行，不上传服务端），口号「让每一句话都抟风」，纯引流站点。
+
+FUYAO PROMPT is part of FUYAO STUDIO (https://iforworlds.com), a human + AI cross-media creative studio. FUYAO PROMPT optimizes AI prompts entirely in your browser (local processing, nothing uploaded). Motto: "Let every sentence catch the wind"; a pure-traffic site.
+
+- Homepage: https://prompt.iforworlds.com/
+- About: https://prompt.iforworlds.com/about.html
+- Contact: https://prompt.iforworlds.com/contact.html (email cynric1st@epiclll.eu.org)
+- Privacy: https://prompt.iforworlds.com/privacy.html
+- Terms: https://prompt.iforworlds.com/terms.html
+
+## Core Pages
+- /
+- /about.html
+- /contact.html
+- /privacy.html
+- /terms.html
+
+## Capabilities
+- AI 提示词优化
+- 浏览器本地处理，隐私优先
+
+## Legal & contact
+- Contact email: cynric1st@epiclll.eu.org
+- Organization: FUYAO STUDIO (扶摇工作室), https://iforworlds.com
+- Children under 13: not directed at
